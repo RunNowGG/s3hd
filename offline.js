@@ -1,0 +1,29 @@
+﻿{
+	"version": 1606680052,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/platform-sheet0.png",
+		"images/convex-sheet0.png",
+		"images/smoothstepup-sheet0.png",
+		"images/smoothstepdown-sheet0.png",
+		"images/concave-sheet0.png",
+		"images/smoothstepupthru-sheet0.png",
+		"images/smoothstepdownthru-sheet0.png",
+		"images/jumptrough-sheet0.png",
+		"images/loop1-sheet0.png",
+		"images/loop1-sheet1.png",
+		"images/detector-sheet0.png",
+		"images/playerdisplay-sheet0.png",
+		"images/playerdisplay-sheet1.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
